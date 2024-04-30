@@ -1,0 +1,13 @@
+{
+  "name": "Учебник",
+  "subcategories": [
+    {
+      "name": "Алгебра",
+      "url":"subjects/algebra"
+    },
+    {
+      "name": "Геометрия",
+      "url":"subjects/geometry"
+    }
+  ]
+}
