@@ -1,0 +1,4 @@
+{   "name": "Геометрия",   "subcategories": [     
+  {       "name": "Плоскость",       "url":"https://raw.github.com/user/rep/subjects/geometry/plan.json"     }, 
+  {       "name": "Пространство",       "url":"https://raw.github.com/user/rep/subjects/geometry/stereo.json"     }
+] }
