@@ -1,5 +1,5 @@
 {   "name": "Виды заданий",  
   "subcategories": [     
-  {       "name": "Вписанные круги и треугольники",       "url":"https://raw.github.com/user/rep/subjects/geometry/plan/ex1.json"     }, 
-  {       "name": "Различные задачи",       "url":"https://raw.github.com/user/rep/subjects/geometry/ex2.json"     }
+  {       "name": "Вписанные круги и треугольники",       "url":"subjects/geometry/plan/ex1"     }, 
+  {       "name": "Различные задачи",       "url":"subjects/geometry/ex2"     }
 ] }
