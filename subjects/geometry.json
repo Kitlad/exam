@@ -2,4 +2,6 @@
   "subcategories": [     
   {       "name": "Плоскость",       "url":"subjects/geometry/plan"     },
   {       "name": "Пространство",       "url":"subjects/geometry/stereo"     }
-] }
+],
+  "path": "road"
+}
