@@ -2,4 +2,6 @@
   "subcategories": [     
   {       "name": "Вписанные круги и треугольники",       "url":"subjects/geometry/plan/ex1"     }, 
   {       "name": "Различные задачи",       "url":"subjects/geometry/ex2"     }
-] }
+],
+"path": "road"
+}
