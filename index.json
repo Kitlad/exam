@@ -3,12 +3,13 @@
   "subcategories": [
     {
       "name": "Алгебра",
-      "url":"subjects/algebra"
+      "url":"subjects/algebra",
+      "type": "category"
     },
     {
       "name": "Геометрия",
-      "url":"subjects/geometry"
+      "url":"subjects/geometry",
+       "type": "category"
     }
-  ],
-  "path": "road"
+  ]
 }
