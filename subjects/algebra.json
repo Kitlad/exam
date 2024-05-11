@@ -3,12 +3,12 @@
   "subcategories": [     
     {       
       "name": "Параметр",
-      "url":"subjects/geometry/par" ,
+      "url":"subjects/algebra/par" ,
       "type":"category"    
     },
     {       
       "name": "Тригонометрия", 
-      "url":"subjects/geometry/trig",
+      "url":"subjects/algebra/trig",
       "type":"category" 
       }
   ],  
