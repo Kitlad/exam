@@ -1,0 +1,15 @@
+{   
+  "name": "Задачи с параметром",  
+  "subcategories": [     
+    {       
+      "name": "Параметр 1",
+      "url":"subjects/algebra/par/ex1" ,
+      "type":"category"    
+    },
+    {       
+      "name": "Параметр 2", 
+      "url":"subjects/algebra/par/ex2",
+      "type":"category" 
+      }
+  ],  
+}
