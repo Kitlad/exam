@@ -9,7 +9,8 @@
   {       
     "name": "Пространство", 
     "url":"subjects/geometry/stereo",
-    "type":"category" }
+    "type":"category" 
+  }
 ],
   
 }
