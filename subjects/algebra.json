@@ -1,0 +1,15 @@
+{   
+  "name": "Алгебра",  
+  "subcategories": [     
+    {       
+      "name": "Параметр",
+      "url":"subjects/geometry/par" ,
+      "type":"category"    
+    },
+    {       
+      "name": "Тригонометрия", 
+      "url":"subjects/geometry/trig",
+      "type":"category" 
+      }
+  ],  
+}
