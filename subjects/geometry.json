@@ -1,7 +1,15 @@
-{   "name": "Геометрия",  
+{   
+  "name": "Геометрия",  
   "subcategories": [     
-  {       "name": "Плоскость",       "url":"subjects/geometry/plan" , "type":"category"    },
-  {       "name": "Пространство",       "url":"subjects/geometry/stereo", "type":"category" }
+  {       
+    "name": "Плоскость",
+    "url":"subjects/geometry/plan" ,
+    "type":"category"    
+  },
+  {       
+    "name": "Пространство", 
+    "url":"subjects/geometry/stereo",
+    "type":"category" }
 ],
   
 }
