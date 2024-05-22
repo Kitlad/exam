@@ -4,12 +4,12 @@
     {      
       "name": "Вписанные круги и треугольники", 
       "url":"subjects/geometry/plan/exercises",
-      "type": "task"
+      "type": "category"
     }, 
     {       
       "name": "Различные задачи", 
       "url":"subjects/geometry/exercises",
-      "type": "task"
+      "type": "category"
     }
   ]
 }
