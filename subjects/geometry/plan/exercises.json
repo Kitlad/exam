@@ -1,0 +1,15 @@
+{
+  "name": "Задания",  
+  "subcategories": [     
+    {      
+      "name": "Задание 1", 
+      "url":"subjects/geometry/plan/exercises/ex1",
+      "type": "task"
+    }, 
+    {       
+      "name": "Задание 2", 
+      "url":"subjects/geometry/plan/exercises/ex2",
+      "type": "task"
+    }
+  ]
+}
