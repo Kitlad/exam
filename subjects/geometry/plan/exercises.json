@@ -4,12 +4,12 @@
     {      
       "name": "Задание 1", 
       "url":"subjects/geometry/plan/exercises/ex1",
-      "type": "category"
+      "type": "task"
     }, 
     {       
       "name": "Задание 2", 
       "url":"subjects/geometry/plan/exercises/ex2",
-      "type": "category"
+      "type": "task"
     }
   ]
 }
