@@ -3,12 +3,12 @@
   "subcategories": [     
     {      
       "name": "Вписанные круги и треугольники", 
-      "url":"subjects/geometry/plan/ex1",
+      "url":"subjects/geometry/plan/exercises",
       "type": "task"
     }, 
     {       
       "name": "Различные задачи", 
-      "url":"subjects/geometry/ex2",
+      "url":"subjects/geometry/exercises",
       "type": "task"
     }
   ]
